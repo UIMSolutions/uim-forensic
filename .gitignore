@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-forensic
+uim-forensic.so
+uim-forensic.dylib
+uim-forensic.dll
+uim-forensic.a
+uim-forensic.lib
+uim-forensic-test-*
+*.exe
+*.o
+*.obj
+*.lst
