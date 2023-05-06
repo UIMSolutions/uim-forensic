@@ -1,1 +1,1 @@
-# Package 📦 uim.firensic.tests
+# Package 📦 uim.forensic.tests
